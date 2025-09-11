@@ -32,7 +32,7 @@ Each day is a new step forward!
 
 | Day | Status | Problem Solved | My Solution |
 |:---:|:------:|:---------------|:-----------:|
-| 001 | ✅ | Second Largest Element (GeeksforGeeks) | [Solution](./Day001_Second_Largest/solution.cpp) |
+| 001 | ✅ | Second Largest Element | [Solution](./Day001-gfg.cpp) |
 | 002 | ⏳ | *TBD* | [Solution]() |
 | 003 | ⏳ | *TBD* | [Solution]() |
 | 004 | ⏳ | *TBD* | [Solution]() |
