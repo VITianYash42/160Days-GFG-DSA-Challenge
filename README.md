@@ -8,7 +8,7 @@
   <img alt="Challenge" src="https://img.shields.io/badge/Challenge-160--Days--GFG-orange?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge">
   <img alt="Language" src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/VITianYash42/160-days-gfg?style=for-the-badge&logo=github&label=Last%20Commit">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/VITianYash42/160Days-GFG-DSA-Challenge?style=for-the-badge&logo=github&label=Last%20Commit">
 </div>
 
 ---
