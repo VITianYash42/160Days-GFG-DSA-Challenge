@@ -1,0 +1,6 @@
+# Ignore all executable files
+*.exe
+
+# Optional: for other compiled files (e.g., from C)
+*.o
+*.out
