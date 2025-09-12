@@ -33,7 +33,7 @@ Each day is a new step forward!
 | Day | Status | Problem Solved | My Solution |
 |:---:|:------:|:---------------|:-----------:|
 | 001 | ✅ | Second Largest Element | [Solution](./Day001-gfg.cpp) |
-| 002 | ⏳ | *TBD* | [Solution]() |
+| 002 | ✅ | Move All Zeores To End | [Solution](./Day002-gfg.cpp) |
 | 003 | ⏳ | *TBD* | [Solution]() |
 | 004 | ⏳ | *TBD* | [Solution]() |
 | 005 | ⏳ | *TBD* | [Solution]() |
