@@ -34,7 +34,7 @@ Each day is a new step forward!
 |:---:|:------:|:---------------|:-----------:|
 | 001 | ✅ | Second Largest Element | [Solution](./Day001-gfg.cpp) |
 | 002 | ✅ | Move All Zeores To End | [Solution](./Day002-gfg.cpp) |
-| 003 | ⏳ | *TBD* | [Solution]() |
+| 003 | ✅ | Reverse An Array | [Solution](Day003-gfg.cpp) |
 | 004 | ⏳ | *TBD* | [Solution]() |
 | 005 | ⏳ | *TBD* | [Solution]() |
 | 006 | ⏳ | *TBD* | [Solution]() |
