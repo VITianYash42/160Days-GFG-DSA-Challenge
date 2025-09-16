@@ -1,3 +1,5 @@
+                                               // DAY 6 - "MAJORITY ELEMENT - MORE THAN n/3" //
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
