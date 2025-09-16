@@ -36,7 +36,7 @@ Each day is a new step forward!
 | 002 | ✅ | Move All Zeores To End | [Solution](./Day002-gfg.cpp) |
 | 003 | ✅ | Reverse An Array | [Solution](Day003-gfg.cpp) |
 | 004 | ✅ | Rotate Array | [Solution](Day004-gfg.cpp) |
-| 005 | ⏳ | *TBD* | [Solution]() |
+| 005 | ✅ | Next Permutation | [Solution](Day005-gfg.cpp) |
 | 006 | ⏳ | *TBD* | [Solution]() |
 | 007 | ⏳ | *TBD* | [Solution]() |
 | 008 | ⏳ | *TBD* | [Solution]() |
