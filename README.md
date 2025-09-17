@@ -37,7 +37,7 @@ Each day is a new step forward!
 | 003 | ✅ | Reverse An Array | [Solution](Day003-gfg.cpp) |
 | 004 | ✅ | Rotate Array | [Solution](Day004-gfg.cpp) |
 | 005 | ✅ | Next Permutation | [Solution](Day005-gfg.cpp) |
-| 006 | ⏳ | *TBD* | [Solution]() |
+| 006 | ✅ | Majority Element - More Than n/3 | [Solution](Day006-gfg.cpp) |
 | 007 | ⏳ | *TBD* | [Solution]() |
 | 008 | ⏳ | *TBD* | [Solution]() |
 | 009 | ⏳ | *TBD* | [Solution]() |
