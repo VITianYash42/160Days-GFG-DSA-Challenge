@@ -1,4 +1,4 @@
-                                          // DAY 8 - "STOCK BUY AND SELL - MULTIPLE TRANSACTIONS ALLOWED" //
+                                          // DAY 7 - "STOCK BUY AND SELL - MULTIPLE TRANSACTIONS ALLOWED" //
 
 #include <iostream>
 #include <vector>
