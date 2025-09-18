@@ -38,7 +38,7 @@ Each day is a new step forward!
 | 004 | ✅ | Rotate Array | [Solution](Day004-gfg.cpp) |
 | 005 | ✅ | Next Permutation | [Solution](Day005-gfg.cpp) |
 | 006 | ✅ | Majority Element - More Than n/3 | [Solution](Day006-gfg.cpp) |
-| 007 | ⏳ | *TBD* | [Solution]() |
+| 007 | ✅ | Stock Buy and Sell – Multiple Transaction Allowed | [Solution](Day007-gfg.cpp) |
 | 008 | ⏳ | *TBD* | [Solution]() |
 | 009 | ⏳ | *TBD* | [Solution]() |
 | 010 | ⏳ | *TBD* | [Solution]() |
