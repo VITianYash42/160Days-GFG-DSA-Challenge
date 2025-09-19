@@ -40,7 +40,7 @@ Each day is a new step forward!
 | 006 | ✅ | Majority Element - More Than n/3 | [Solution](Day006-gfg.cpp) |
 | 007 | ✅ | Stock Buy and Sell – Multiple Transaction Allowed | [Solution](Day007-gfg.cpp) |
 | 008 | ✅ | Stock Buy and Sell – Max one Transaction Allowed | [Solution](Day008-gfg.cpp) |
-| 009 | ⏳ | *TBD* | [Solution]() |
+| 009 | ✅ | Kadane's Algorithm | [Solution](Day009-gfg.cpp) |
 | 010 | ⏳ | *TBD* | [Solution]() |
 | 011 | ⏳ | *TBD* | [Solution]() |
 | 012 | ⏳ | *TBD* | [Solution]() |
