@@ -39,7 +39,7 @@ Each day is a new step forward!
 | 005 | ✅ | Next Permutation | [Solution](Day005-gfg.cpp) |
 | 006 | ✅ | Majority Element - More Than n/3 | [Solution](Day006-gfg.cpp) |
 | 007 | ✅ | Stock Buy and Sell – Multiple Transaction Allowed | [Solution](Day007-gfg.cpp) |
-| 008 | ⏳ | *TBD* | [Solution]() |
+| 008 | ✅ | Stock Buy and Sell – Max one Transaction Allowed | [Solution](Day008-gfg.cpp) |
 | 009 | ⏳ | *TBD* | [Solution]() |
 | 010 | ⏳ | *TBD* | [Solution]() |
 | 011 | ⏳ | *TBD* | [Solution]() |
