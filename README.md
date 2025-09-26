@@ -42,7 +42,7 @@ Each day is a new step forward!
 | 008 | ✅ | Stock Buy and Sell – Max one Transaction Allowed | [Solution](Day008-gfg.cpp) |
 | 009 | ✅ | Kadane's Algorithm | [Solution](Day009-gfg.cpp) |
 | 010 | ✅ | Smallest Positive Missing | [Solution](Day010-gfg.cpp) |
-| 011 | ⏳ | *TBD* | [Solution]() |
+| 011 | ✅ | Maximum Product Subarray | [Solution](Day011-gfg.cpp) |
 | 012 | ⏳ | *TBD* | [Solution]() |
 | 013 | ⏳ | *TBD* | [Solution]() |
 | 014 | ⏳ | *TBD* | [Solution]() |
