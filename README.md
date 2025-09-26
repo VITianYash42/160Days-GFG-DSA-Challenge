@@ -43,8 +43,8 @@ Each day is a new step forward!
 | 009 | ✅ | Kadane's Algorithm | [Solution](Day009-gfg.cpp) |
 | 010 | ✅ | Smallest Positive Missing | [Solution](Day010-gfg.cpp) |
 | 011 | ✅ | Maximum Product Subarray | [Solution](Day011-gfg.cpp) |
-| 012 | ⏳ | *TBD* | [Solution]() |
-| 013 | ⏳ | *TBD* | [Solution]() |
+| 012 | ✅ | Max Circular Subarray Sum | [Solution](Day012-gfg.cpp) |
+| 013 | ✅ | Minimize The Height II | [Solution](Day013-gfg.cpp) |
 | 014 | ⏳ | *TBD* | [Solution]() |
 | 015 | ⏳ | *TBD* | [Solution]() |
 | 016 | ⏳ | *TBD* | [Solution]() |
